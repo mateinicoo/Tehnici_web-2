@@ -1,0 +1,8 @@
+{
+    "exercises": [
+        { "id": "pushups", "name": "Flotări" },
+        { "id": "pullups", "name": "Tracțiuni" },
+        { "id": "squats", "name": "Genuflexiuni" },
+        { "id": "plank", "name": "Plank" }
+    ]
+}
